@@ -23,6 +23,6 @@ kittens = ["Milo","Otis","Garfield"]
  }
  kittens = ["Milo","Otis","Garfield"]
  function appendKitten(value){
-  kittens = kittens.concat(value)
-  return kittens
+  var kittens1 = kittens.concat(value)
+  return kittens1
  }
