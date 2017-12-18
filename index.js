@@ -27,4 +27,7 @@ kittens = ["Milo","Otis","Garfield"]
   return kittens1
  }
  
- function 
+ function prependKitten(value){
+   var kittens2 = kittens.concet(value)
+   return kittens2
+ }
