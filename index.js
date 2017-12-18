@@ -18,5 +18,5 @@ kittens = ["Milo","Otis","Garfield"]
  }
  kittens = ["Milo","Otis","Garfield"]
  function destructivelyRemoveFirstKitten(){
-   
+   kittens.shift
  }
