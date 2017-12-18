@@ -22,4 +22,6 @@ kittens = ["Milo","Otis","Garfield"]
    return kittens
  }
  kittens = ["Milo","Otis","Garfield"]
- function 
+ function appendKitten(value){
+  return  kittens.appendKitten(value)
+ }
