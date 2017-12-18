@@ -21,3 +21,5 @@ kittens = ["Milo","Otis","Garfield"]
    kittens.shift();
    return kittens
  }
+ kittens = ["Milo","Otis","Garfield"]
+ function 
