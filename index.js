@@ -35,3 +35,4 @@ kittens = ["Milo","Otis","Garfield"]
     var kittens3 = kittens.slice(0)
     return kittens3
   }
+  function remove
