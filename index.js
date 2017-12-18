@@ -7,4 +7,4 @@ function destructivelyAppendKitten(value){
   
 }
 kittens = ["Milo","Otis","Garfield"]
- function 
+ function destructi
