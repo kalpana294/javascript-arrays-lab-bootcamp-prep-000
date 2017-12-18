@@ -32,7 +32,7 @@ kittens = ["Milo","Otis","Garfield"]
    return kittens2
  }
   function removeLastKitten(){
-    var kittens3 = kittens.slice(0,1)
+    var  kittens3= kittens.slice(0,1)
     concole.log()
     return kittens3
   }
