@@ -6,3 +6,5 @@ function destructivelyAppendKitten(value){
  return kittens
   
 }
+kittens = ["Milo","Otis","Garfield"]
+ function 
