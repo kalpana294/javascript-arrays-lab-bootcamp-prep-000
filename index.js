@@ -7,4 +7,6 @@ function destructivelyAppendKitten(value){
   
 }
 kittens = ["Milo","Otis","Garfield"]
- function destructi
+ function destructivelyPrependKitten(value){
+   kittens.unshift(value);
+ }
