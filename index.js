@@ -28,6 +28,6 @@ kittens = ["Milo","Otis","Garfield"]
  }
  
  function prependKitten(value){
-   var kittens2 = kittens.(value)
+   var kittens2 = kittens.slice(0,0,value)
    return kittens2
  }
