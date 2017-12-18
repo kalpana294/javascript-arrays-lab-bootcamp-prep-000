@@ -16,3 +16,5 @@ kittens = ["Milo","Otis","Garfield"]
    kittens.pop();
    return kittens
  }
+ kittens = ["Milo","Otis","Garfield"]
+ function 
