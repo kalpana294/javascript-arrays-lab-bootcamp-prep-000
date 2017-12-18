@@ -1,8 +1,8 @@
 const app = "I don't do much."
 
 var kittens = ["Milo","Otis","Garfield"]
-function destructivelyAppendKitten(kittens){
- kittens = kittens.push("Ralph");
+function destructivelyAppendKitten(value){
+ kittens.push(value);
  return kittens
   
 }
